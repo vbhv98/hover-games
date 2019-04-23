@@ -1,0 +1,23 @@
+{
+  "main.css": "/hovergames/static/css/main.85d53a80.chunk.css",
+  "main.js": "/hovergames/static/js/main.c82c5445.chunk.js",
+  "main.js.map": "/hovergames/static/js/main.c82c5445.chunk.js.map",
+  "runtime~main.js": "/hovergames/static/js/runtime~main.fb80d95e.js",
+  "runtime~main.js.map": "/hovergames/static/js/runtime~main.fb80d95e.js.map",
+  "static/css/2.0d5f71bc.chunk.css": "/hovergames/static/css/2.0d5f71bc.chunk.css",
+  "static/js/2.a276ee8d.chunk.js": "/hovergames/static/js/2.a276ee8d.chunk.js",
+  "static/js/2.a276ee8d.chunk.js.map": "/hovergames/static/js/2.a276ee8d.chunk.js.map",
+  "index.html": "/hovergames/index.html",
+  "precache-manifest.648bf2fe0c5e6287acdece06cf604991.js": "/hovergames/precache-manifest.648bf2fe0c5e6287acdece06cf604991.js",
+  "service-worker.js": "/hovergames/service-worker.js",
+  "static/css/2.0d5f71bc.chunk.css.map": "/hovergames/static/css/2.0d5f71bc.chunk.css.map",
+  "static/css/main.85d53a80.chunk.css.map": "/hovergames/static/css/main.85d53a80.chunk.css.map",
+  "static/media/Breakout.png": "/hovergames/static/media/Breakout.a3f8cc26.png",
+  "static/media/Dodge.png": "/hovergames/static/media/Dodge.3214ddaa.png",
+  "static/media/LoadImg.webp": "/hovergames/static/media/LoadImg.5632f659.webp",
+  "static/media/Pong.png": "/hovergames/static/media/Pong.e0e0eafb.png",
+  "static/media/Snake.png": "/hovergames/static/media/Snake.0da1d476.png",
+  "static/media/udit.jpg": "/hovergames/static/media/udit.4965457b.jpg",
+  "static/media/vaibhav.jpg": "/hovergames/static/media/vaibhav.851bedd4.jpg",
+  "static/media/vinay.jpg": "/hovergames/static/media/vinay.4918debe.jpg"
+}
